@@ -35,7 +35,7 @@ if($nilai <= 100 && $nilai >= 85){
     $desc = 'Gagal';
 }else{
     $nilai = 'Nilai tidak terdefinisi';
-    $desc = '-';
+    $desc = 'Nilai tidak terdefinisi';
 }
 
 ?>
