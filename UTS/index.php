@@ -9,7 +9,7 @@ $user = $_SESSION['user_email'];
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Login 05</title>
+    <title>Halaman Home</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
